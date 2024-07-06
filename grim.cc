@@ -2,7 +2,7 @@ getgenv().Grim = {
     ["Setup"] = {
         Loaded = true,
         Remote = "MainEvent",
-        Arg = "UpdateMousePosI"
+        Arg = "MousePosUpdate"
     },
     ["Silent"] = {
         Enabled = true,
